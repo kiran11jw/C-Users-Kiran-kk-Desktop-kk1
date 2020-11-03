@@ -1,11 +1,12 @@
 #container {
   text-align: center;
+width:100%;
+height:auto;
 
   position: absolute;
   left: 0;
   right: 0;
-  top: 50%;
-  transform: translateY(-50%);
+  
 }
 
 #container strong {
@@ -24,4 +25,60 @@
 
 #container a {
   text-decoration: none;
+
 }
+#title{
+  color:black;
+  font-size:40px;
+  font-family:calibri;
+  padding:10px;
+  font-weight:bold;
+  }
+  #title1
+  {
+  color:black;
+  font-size:20px;
+  font-family:calibri;
+  padding:10px;
+  font-weight:bold;
+  }
+#text{
+  color:black;
+  font-size:20px;
+  padding:10px;
+  font-family:calibri;}
+
+  #text1{
+  color:black;
+  font-size:15px;
+  padding:10px;
+  font-family:calibri;
+
+
+}
+#im1{
+  width:auto;
+  height:auto;
+  margin:20px;
+  border-radius:50px;
+}
+
+#im2
+{
+  width:auto;
+  height:500%;
+}
+#im3
+{
+  width:100%;
+  height:auto;
+  margin:5px;
+  border-radius:20px;
+}
+#card{
+  background-color:white;
+  padding:2px;
+  }
+  #scol{
+  background-color:#f0f5f9;
+  }
